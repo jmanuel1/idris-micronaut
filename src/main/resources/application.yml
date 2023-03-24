@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: idrisMicronaut
+netty:
+  default:
+    allocator:
+      max-order: 3
