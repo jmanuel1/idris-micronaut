@@ -1,0 +1,6 @@
+package idris-micronaut
+
+modules = com.jasonmanuel.idrismicronaut.HelloController
+
+opts = "--portable-codegen jvm -o ../../../build/classes"
+
